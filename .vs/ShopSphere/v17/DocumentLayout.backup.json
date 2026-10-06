@@ -1,12 +1,85 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub\\ShopSphere\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{239879CC-BDD0-4B98-B669-5932F9372F9E}|ShopSphere\\ShopSphere.csproj|d:\\github\\shopsphere\\shopsphere\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239879CC-BDD0-4B98-B669-5932F9372F9E}|ShopSphere\\ShopSphere.csproj|solutionrelative:shopsphere\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239879CC-BDD0-4B98-B669-5932F9372F9E}|ShopSphere\\ShopSphere.csproj|d:\\github\\shopsphere\\shopsphere\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239879CC-BDD0-4B98-B669-5932F9372F9E}|ShopSphere\\ShopSphere.csproj|solutionrelative:shopsphere\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239879CC-BDD0-4B98-B669-5932F9372F9E}|ShopSphere\\ShopSphere.csproj|d:\\github\\shopsphere\\shopsphere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239879CC-BDD0-4B98-B669-5932F9372F9E}|ShopSphere\\ShopSphere.csproj|solutionrelative:shopsphere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239879CC-BDD0-4B98-B669-5932F9372F9E}|ShopSphere\\ShopSphere.csproj|d:\\github\\shopsphere\\shopsphere\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{239879CC-BDD0-4B98-B669-5932F9372F9E}|ShopSphere\\ShopSphere.csproj|solutionrelative:shopsphere\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\GitHub\\ShopSphere\\ShopSphere\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ShopSphere\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\GitHub\\ShopSphere\\ShopSphere\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ShopSphere\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T09:37:38.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\GitHub\\ShopSphere\\ShopSphere\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShopSphere\\Models\\Product.cs",
+              "ToolTip": "D:\\GitHub\\ShopSphere\\ShopSphere\\Models\\Product.cs",
+              "RelativeToolTip": "ShopSphere\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T09:32:32.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\ShopSphere\\ShopSphere\\Program.cs",
+              "RelativeDocumentMoniker": "ShopSphere\\Program.cs",
+              "ToolTip": "D:\\GitHub\\ShopSphere\\ShopSphere\\Program.cs",
+              "RelativeToolTip": "ShopSphere\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T09:09:15.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GitHub\\ShopSphere\\ShopSphere\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ShopSphere\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\GitHub\\ShopSphere\\ShopSphere\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ShopSphere\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-03T09:07:16.978Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
